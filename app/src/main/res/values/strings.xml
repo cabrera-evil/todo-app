@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TaskTracker</string>
+    <string name="add_task_fab_label">Add Task</string>
+    <string name="page_title">Task Manager</string>
+    <string name="description_example">Description Example</string>
+    <string name="status_example">Completed</string>
+    <string name="page_add_task_title">New Task</string>
+    <string name="description_input">Description</string>
+    <string name="status_input">Status</string>
+    <string name="add_task">Add Task</string>
+</resources>
